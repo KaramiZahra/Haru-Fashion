@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Haru-Fashion/static/css/main.7d6cfabd.css",
+    "main.js": "/Haru-Fashion/static/js/main.45d401a8.js",
+    "static/js/453.69770902.chunk.js": "/Haru-Fashion/static/js/453.69770902.chunk.js",
+    "index.html": "/Haru-Fashion/index.html",
+    "main.7d6cfabd.css.map": "/Haru-Fashion/static/css/main.7d6cfabd.css.map",
+    "main.45d401a8.js.map": "/Haru-Fashion/static/js/main.45d401a8.js.map",
+    "453.69770902.chunk.js.map": "/Haru-Fashion/static/js/453.69770902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6cfabd.css",
+    "static/js/main.45d401a8.js"
+  ]
+}
